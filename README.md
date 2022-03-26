@@ -3,20 +3,24 @@ Language : c++
 
 <b><ins>***ONE***</ins></b>
 <br />
-1<br />
-01<br />
-101<br />
-0101<br />
-10101<br />
+<pre>
+1
+01
+101
+0101
+10101
+</pre>
 <a href="https://github.com/heerpatell/Patterns/blob/main/one.cpp" >Code</a>
 
 <b><ins>***TWO***</ins></b>
 <br />
-1<br />
-31<br />
-531<br />
-7531<br />
-97531<br />
+<pre>
+1
+31
+531
+7531
+97531
+</pre>
 <a href="https://github.com/heerpatell/Patterns/blob/main/two.cpp" >Code</a>
 
 <b><ins>***THREE(HOLLOW RECTANGLE)***</ins></b>
@@ -60,11 +64,10 @@ Language : c++
 
 <b><ins>***SIX***</ins></b>
 <pre>
-O N M L K
-J I H G
-F E D
-C B
-A
+      * * * *
+    *     *
+  *     *
+* * * *
 </pre>
 <a href="https://github.com/heerpatell/Patterns/blob/main/six.cpp" >Code</a>
 <br />
